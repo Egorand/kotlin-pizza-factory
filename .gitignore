@@ -1,0 +1,11 @@
+
+/.gradle/
+/.idea/
+/build/
+/out/
+/sample/build/
+/sample/out/
+/compiler/out/
+/compiler/build/
+/annotations/out/
+/annotations/build/
